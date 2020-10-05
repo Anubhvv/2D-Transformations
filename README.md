@@ -11,6 +11,6 @@ appply force to change its shape.
 
 4 quadrants are displayed.
 
-NOTE: Give points of polygon in either cyclic or non cyclic order
+NOTE: Give points of polygon in either cyclic or non cyclic order. 
 Works fine for a single point and line. SIngle point (pixel) is too small to easily detect.
 *********************************************
